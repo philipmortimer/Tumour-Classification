@@ -20,5 +20,9 @@ Resource showing overall accuracy of melanoma diagnosis amongst physicians is 64
 Resource showing accuracy of melanoma diagnosis varies from 80% for highly experienced (10 or more years of experience) dermatoligsits to 62% for those with 3-5 years of experience to 56% for those with 1-2 years of experience: Morton, and Mackie, (1998), Clinical accuracy of the diagnosis of cutaneous malignant melanoma. British Journal of Dermatology, 138: 283-287. https://doi.org/10.1046/j.1365-2133.1998.02075.x  https://onlinelibrary.wiley.com/doi/abs/10.1046/j.1365-2133.1998.02075.x
 Execute the JAR file to see the project in operation. This project was made using the  NetBeans 8.2 IDE.
 
+Example output:
+![image](https://user-images.githubusercontent.com/64362945/177979812-d90f825c-973e-432b-b120-ea1a4ad9eafd.png)
+
+
 
 
